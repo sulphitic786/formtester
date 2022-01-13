@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formtester/static/css/main.1713ab84.css",
+    "main.js": "/formtester/static/js/main.f674c3ed.js",
+    "index.html": "/formtester/index.html",
+    "main.1713ab84.css.map": "/formtester/static/css/main.1713ab84.css.map",
+    "main.f674c3ed.js.map": "/formtester/static/js/main.f674c3ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1713ab84.css",
+    "static/js/main.f674c3ed.js"
+  ]
+}
